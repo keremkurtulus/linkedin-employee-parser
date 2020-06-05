@@ -1,0 +1,20 @@
+{
+  "name": "remote-employee",
+  "version": "1.0.0",
+  "description": "Find remote employee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config index.js"
+  },
+  "author": "Kerem Kurtulus",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "puppeteer": "^3.3.0",
+    "puppeteer-extra": "^3.1.9",
+    "puppeteer-extra-plugin-stealth": "^2.4.9"
+  }
+}
