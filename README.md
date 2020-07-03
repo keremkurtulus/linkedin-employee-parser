@@ -1,4 +1,4 @@
-# RemoteTeam Interview Project
+# Self Improvement Project
 
 This application developed for parsing people informations for LinkedIn. That application needs your LinkedIn account session cookie value to search people. LinkedIn does not allow scrapping without a authanticated session. I recommend you to use a dummy LinkedIn account for that project. But LinkedIn can hide people's information if you use a dummy account which is created new.
 
